@@ -4,5 +4,7 @@
 author: John Jairo - JJLE
 metodo de ordenamiento
 quicksort
+
+basado en recursividad
 """
 
