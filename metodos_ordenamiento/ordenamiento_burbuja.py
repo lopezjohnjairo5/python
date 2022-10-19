@@ -46,7 +46,7 @@ def burble(l,order="asc"):
 
 
 if(__name__ == '__main__'):
-	#conjunto de numeros
+	#conjunto de numeros aleatorios . ejemplo con minima intervencion del  user
 	"""
 	numbers = [ rd.randint(0,60) for n in range(0,60) ]
 	print(numbers)
